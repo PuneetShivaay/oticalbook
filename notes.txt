@@ -1,0 +1,5 @@
+# create react app has been depricated so pausing this project
+
+
+to run nodemon : npx nodemon
+
